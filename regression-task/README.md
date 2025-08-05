@@ -6,7 +6,7 @@ This notebook tackles a regression problem using multiple machine learning model
 
 ## 🧰 Models Used
 
-- Linear Regression
+- Random Forest Regressor
 - Decision Tree Regressor
 - Neural Network (Keras Sequential)
 
@@ -24,5 +24,5 @@ This notebook tackles a regression problem using multiple machine learning model
 
 ## ▶️ How to Run
 
-1. Open `regression_models.ipynb` in Jupyter Notebook or Google Colab
+1. Open `Regression_Task.ipynb` in Jupyter Notebook or Google Colab
 2. Run all cells to view data prep, model training, and evaluation
