@@ -22,7 +22,7 @@ This repository contains two core machine learning tasks developed for my univer
 
 - Classifying categorical outcomes using:
   - K-Nearest Neighbors
-  - Support Vector Machine
+  - Random Forest Classifier
   - Neural Network (Keras)
 - Includes confusion matrix, precision, recall, F1-score
 
