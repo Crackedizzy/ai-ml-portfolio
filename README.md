@@ -9,7 +9,7 @@ This repository contains two core machine learning tasks developed for my univer
 ## 🔢 Regression Task
 
 - Predicting a continuous outcome using models like:
-  - Linear Regression
+  - Random Forest Regressor
   - Decision Tree Regressor
   - Neural Network (Keras)
 - Includes performance evaluation (MSE, RMSE, R²)
