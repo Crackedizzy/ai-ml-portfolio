@@ -7,7 +7,7 @@ This notebook addresses a supervised classification problem using various ML alg
 ## 🧰 Models Used
 
 - K-Nearest Neighbors (KNN)
-- Support Vector Machine (SVM)
+- Random Forest Classifier (RFC)
 - Neural Network (Keras Sequential)
 
 ## 📊 Evaluation Metrics
@@ -26,5 +26,5 @@ This notebook addresses a supervised classification problem using various ML alg
 
 ## ▶️ How to Run
 
-1. Open `classification_models.ipynb` in Jupyter Notebook or Google Colab
+1. Open `Classification_Task.ipynb` in Jupyter Notebook or Google Colab
 2. Run all cells to view preprocessing, model performance, and analysis
